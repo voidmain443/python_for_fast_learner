@@ -1,7 +1,5 @@
 # python for fast learner
 ------------
-공부하면서 파이썬 강의 보면서 항상 의문이 들던 수준차이 와 pep8이나 등등 공부해 오면서 더 좋은 자료에 대한 갈증이 생겼다.
-공부하려고 준비한 것도 있고 후배 멘토링에서 사용한 감이 있지만 
-- 웹크롤링 등등 공부 할 것 
-- 엑셀 처럼 사용 잘할 수 있도록하는 것 
-- 파이썬을 좀더 잘 사용해보자:
+learning python as a simple and fastways.
+
+first week: learning with python with linear algebra with numpy
